@@ -4,9 +4,9 @@
 
 ## Download the app on your local system
 
-The published site is a PWA and downloadable on your system. Click
+The published site is a PWA and downloadable on your system. Click at the download icon at the top right of your browser's search bar.
 
-The app uses an http source(http://3.111.128.67/assignment/chat?page=0) to fetch the data,
+### NOTE -- The app uses an http source(http://3.111.128.67/assignment/chat?page=0) to fetch the data,
 because of which chrome blocks the requests and you can't see the fetched data.
 
 Therefore, to see the fetched data, you must change site settings.

@@ -5,7 +5,7 @@
 ## Download the app on your local system
 
 ## Demo link - https://drive.google.com/file/d/1Hj2E3WLW-6wpz35LabyIzYUIFdRVfpTX/view?usp=share_link
-## Demo Screenhot - https://drive.google.com/file/d/1Ql0qBqS_ninQaRy6PxnmSGepheA6_-HX/view?usp=share_link
+## Demo Screenshot - https://drive.google.com/file/d/1Ql0qBqS_ninQaRy6PxnmSGepheA6_-HX/view?usp=share_link
 
 The published site is a PWA and downloadable on your system. Click at the download icon at the top right of your browser's search bar.
 
